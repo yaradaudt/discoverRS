@@ -186,7 +186,7 @@ body {
  }
 
  /* media queries (é um at rule, comandado por @)
- aqui funcionaria caso o bg para o outro formato estivesse disponível, como não está, 
+ aqui funcionaria melhor caso o bg para o outro formato estivesse disponível, como não está, 
  vou deixar esse comentário para deixar registrado como fazer quando for necessário
  
  @media (min-width: 700px) {
